@@ -1,0 +1,11 @@
+D:\VisualStudio\Praktika_\Praktika_\bin\Debug\Praktika_.exe.config
+D:\VisualStudio\Praktika_\Praktika_\bin\Debug\Praktika_.exe
+D:\VisualStudio\Praktika_\Praktika_\bin\Debug\Praktika_.pdb
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.csproj.AssemblyReference.cache
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.Form1.resources
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.Properties.Resources.resources
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.csproj.GenerateResource.cache
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.exe
+D:\VisualStudio\Praktika_\Praktika_\obj\Debug\Praktika_.pdb
