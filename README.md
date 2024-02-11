@@ -56,3 +56,6 @@ Microsoft Visual Studio Community 2022
 Создать файл для сохранения
 
 ![image](https://github.com/346pt/Monitoring/assets/117898513/7c1017a9-cd29-44ad-b48e-30e9100cab79)
+
+## Технологии
+[VisualStudio 2022](https://visualstudio.microsoft.com/ru/vs/community/)
