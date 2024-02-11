@@ -148,5 +148,4 @@ T9: 1 – 10
 ## Источники
 
 - [c#](https://metanit.com/sharp/)
-- 
 - [windowsforms](https://learn.microsoft.com/ru-ru/dotnet/desktop/winforms/overview/?view=netdesktop-8.0)
