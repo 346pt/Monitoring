@@ -61,3 +61,9 @@ Microsoft Visual Studio Community 2022
 - [VisualStudio 2022](https://visualstudio.microsoft.com/ru/vs/community/)
 - [c#](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
 - [.NET 6.0](https://learn.microsoft.com/ru-ru/dotnet/welcome)
+
+## Разработка
+
+Для установки и запуска проекта, необходим [VisualStudio 2022](https://visualstudio.microsoft.com/ru/vs/community/)
+
+## Тестирование
